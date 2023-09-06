@@ -1,2 +1,2 @@
-eoq:
+queue:
 	streamlit run app.py
